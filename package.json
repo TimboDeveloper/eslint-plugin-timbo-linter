@@ -1,0 +1,8 @@
+{
+  "name": "eslint-plugin-timbo-linter",
+  "version": "0.1.0",
+  "description": "Timbo-linting",
+  "main": "index.js",
+  "author": "TimboDeveloper",
+  "license": "MIT"
+}
